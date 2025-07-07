@@ -1,3 +1,4 @@
+![Header](./logo.png)
 # CommonLit Evaluate Student Summaries Competition
 
 This repository contains the code and analysis for the [CommonLit Evaluate Student Summaries](https://www.kaggle.com/competitions/commonlit-evaluate-student-summaries) Kaggle competition. The goal is to predict two target scores for student-written summaries:
